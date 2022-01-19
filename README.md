@@ -4,6 +4,7 @@
 - 👀 I’m interested in everything 🤣
 - 🌱 I’m currently learning networks and cloud 🌩️ architecture
 - 🎯 2022 Goals: Learn about database engines and contribute to open source projects
+- 📖 My learning resources are <a href="https://www.notion.so/techkrtk/My-Dev-Blogs-Channels-cf6a36fca0354c95b67eb0c35e0d3eea" rel="nofollow" style="none">these</a>
 
 
 
