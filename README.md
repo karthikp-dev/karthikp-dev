@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m @karthikp-dev
 
 <p align="center" dir="auto">
-![undraw_programming_re_kg9v](https://user-images.githubusercontent.com/98032346/152645388-8ad6c016-1736-426f-a370-7adf557c3522.svg)
+<img src="https://user-images.githubusercontent.com/98032346/152645388-8ad6c016-1736-426f-a370-7adf557c3522.svg" />
 </p>
 
 <br />
