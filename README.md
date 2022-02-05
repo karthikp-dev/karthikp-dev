@@ -10,7 +10,7 @@
 
 <p align="center" dir="auto">
 <a href="https://blog.karthiksai.in" rel="nofollow"><img align="center" src="https://img.icons8.com/cotton/100/000000/chrome.png" height="50" style="max-width: 100%;"></a>
-<a href="https://twitter.com/techkrtk" rel="nofollow"><img align="center" src="https://img.icons8.com/cotton/100/000000/twitter.png" height="50" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/ksrkrishna/" rel="nofollow"><img align="center" src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png" height="40" style="max-width: 100%;"></a>
+<a href="https://twitter.com/techkrtk" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="50" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/ksrkrishna/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="40" style="max-width: 100%;"></a>
 </p>
 
