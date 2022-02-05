@@ -9,8 +9,8 @@
 
 
 <p align="center" dir="auto">
-<a href="https://blog.karthiksai.in" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/115px-Firefox_logo%2C_2019.svg.png" height="40" style="max-width: 100%;"></a>
-<a href="https://twitter.com/techkrtk" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="40" style="max-width: 100%;"></a>
+<a href="https://blog.karthiksai.in" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/115px-Firefox_logo%2C_2019.svg.png" height="40" style="max-width: 100%;"></a> &nbsp;&nbsp;
+<a href="https://twitter.com/techkrtk" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ksrkrishna/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="40" style="max-width: 100%;"></a>
 </p>
 
