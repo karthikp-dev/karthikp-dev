@@ -5,7 +5,7 @@
 <img width=56% align = right src=https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif>
 </p>
 
-
+<br />
 
 <ul>
 <li>I am a developer, blogger and a curious learner 😃</li>
