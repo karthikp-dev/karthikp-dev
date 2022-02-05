@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m @karthikp-dev
 
 <p align="center" dir="auto">
-<img width=56% align = right src=https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif>
+![undraw_programming_re_kg9v](https://user-images.githubusercontent.com/98032346/152645388-8ad6c016-1736-426f-a370-7adf557c3522.svg)
 </p>
 
 <br />
@@ -20,6 +20,7 @@
 <a href="https://twitter.com/techkrtk" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ksrkrishna/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="40" style="max-width: 100%;"></a>
 </p>
+
 
 
 <br />
