@@ -10,15 +10,15 @@ I'm a **Senior Backend Engineer** with 6+ years of experience building **scalabl
 - **Frameworks & Tools**: Node.js, Express, Redis, PostgreSQL, MongoDB, GraphQL, WebSockets, WebRTC, ffmpeg  
 - **Cloud & Infra**: AWS (Lambda, S3, SQS), Google Cloud, Docker, Kubernetes, Serverless  
 - **Architecture**: Microservices, Event-Driven Systems, Job/Event Schedulers, Message Queues  
-- **AI Stack**: Vercel AI SDK, ChromaDB, LLMs, RAG Systems, LLM Routing, Memory  
+- **AI Stack**: Vercel AI SDK, ChromaDB, LLMs, RAG Systems.
 - **Blockchain**: Ethereum, Smart Contracts, Ethers.js, web3.js
 
 ---
 
 ## 🚀 What I’m Building Now
 
-- **AI Learning Assistant** – An intelligent backend that rewrites user queries using LLMs and performs semantic search via ChromaDB  
-- **AI Meme Generator** – A side project using Go + LLMs to generate memes based on trending prompts
+- **AI Learning Assistant: WIP**  – An intelligent AI system that works in RAG mode and enhances user reading/learning experience with the help of AI. Semantic Search, Vector DB's, LLM routing, Re-Ranking, Evals, Observability.
+- **AI Meme Generator** – A side project using Go + LLMs to generate memes based on trending prompts.
 
 ---
 
