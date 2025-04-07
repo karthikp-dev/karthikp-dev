@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Karthik Puranam
 
-I'm a **Senior Backend Engineer** with 6+ years of experience building **scalable, distributed systems** using **Node.js**, **Go**, and modern cloud architecture. I enjoy solving complex backend problems, optimizing performance at scale, and lately—exploring the intersection of **LLMs**, **semantic search**, and **generative AI**.
+I'm a **Senior Backend Engineer** with 6+ years of experience building **scalable, distributed systems** using **Node.js**, **Go**, and modern cloud architecture. I enjoy solving complex backend problems, optimizing performance at scale, and recently, exploring the intersection of **LLMs**, **semantic search**, and **generative AI**.
 
 ---
 
